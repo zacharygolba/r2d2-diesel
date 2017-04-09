@@ -1,7 +1,7 @@
 r2d2-diesel
 ===========
 
-Provides [r2d2](https://github.com/sfackler/r2d2) support to allow connection pooling with Diesel.
+Provides [r2d2](https://github.com/sfackler/r2d2) support to allow connection pooling with Diesel.  Exact same as regular r2d2-diesel except has been changed to be MySQL specific in order to avoid issue with health check result not being used.
 
 Examples
 ========
