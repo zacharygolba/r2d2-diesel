@@ -8,5 +8,5 @@ homepage = "https://github.com/sgrif/r2d2-diesel"
 repository = "https://github.com/sgrif/r2d2-diesel"
 
 [dependencies]
-r2d2 = "0.7.0"
-diesel = { version = "0.12.0", features = ["mysql"] }
+r2d2 = "0.7.2"
+diesel = { version = "0.13.0", features = ["mysql"] }
